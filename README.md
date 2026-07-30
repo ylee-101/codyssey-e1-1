@@ -19,7 +19,7 @@
 ### Github
 
 ### Terminal(CLI)
-- [] foo
+- [ ] foo
 - [x] baa
 
 ### Docker
